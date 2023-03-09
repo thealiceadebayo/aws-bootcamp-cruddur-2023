@@ -1,5 +1,5 @@
 # Week 0 — Billing and Architecture
-Implementing a full code pipeline incorportating commit, build and deploy steps.
+Designed a full code pipeline logical architecture incorportating commit, build and deploy steps.
 
 The advanced demo consists of 4 stages :-
 
