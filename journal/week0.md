@@ -1,4 +1,10 @@
 # Week 0 — Billing and Architecture
+<b> Create a budget </b> <br>
+I created my own Budget for $1 because I cannot afford any kind of spend. I did not create a second Budget because I was concerned of budget spending going over the 2 budget free limit.
+
+![image](https://user-images.githubusercontent.com/88491497/224267037-e9f45136-f529-4f60-8987-b050c876447d.png) <br><br>
+
+<b> Logical Architecture Design </b> <br>
 Designed a full code pipeline logical architecture incorportating commit, build and deploy steps.
 
 The advanced demo consists of 4 stages :-
